@@ -11,3 +11,4 @@ Feature1 (3).
 ReleaseBranch (1).
 ReleaseBranch (2).
 ReleaseBranch (3).
+ReleaseBranch (4).
